@@ -74,7 +74,7 @@ function App() {
         backgroundPosition: 'center', 
         backgroundRepeat: 'no-repeat', padding: '20px', borderRadius: '8px', textAlign: 'center' 
       }}>
-        <h1>      ___</h1>
+        <h1>   []</h1>
         <p style={{ fontSize: '1.2em', fontWeight: 'bold', color: '' }}>
         </p>
         <h2 style={{ fontSize: '1.5em', color: '#A86A24', marginBottom: '30px', marginTop: 30 }}>
